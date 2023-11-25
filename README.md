@@ -8,7 +8,7 @@ The shmokmt/actions-setup-github-comment action installs [suzuki-shunsuke/github
 
 ### `version`
 
-Optional. The version of tfcmt. Default is "latest".
+Optional. The version of github-comment. Default is "latest".
 
 ## Usage
 
